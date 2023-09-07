@@ -7,7 +7,7 @@
 
 ---
 
-[Check out the documentation to learn more](https://evite.netlify.app/guide/typescript-decorator.html).
+[Check out the documentation to learn more](https://electron-vite.org/guide/typescript-decorator.html).
 
 ## Repo Setup
 
